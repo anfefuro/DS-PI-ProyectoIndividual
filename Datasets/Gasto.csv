@@ -1,4 +1,4 @@
-IdGasto,IdSucursal,IdTipoGasto,Fecha,Monto
+﻿IdGasto,IdSucursal,IdTipoGasto,Fecha,Monto
 1,18,1,2015-01-01,1164.9
 2,18,2,2015-01-01,317.02
 3,18,3,2015-01-01,118.89

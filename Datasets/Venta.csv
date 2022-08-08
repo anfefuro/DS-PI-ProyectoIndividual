@@ -1,4 +1,4 @@
-IdVenta,Fecha,Fecha_Entrega,IdCanal,IdCliente,IdSucursal,IdEmpleado,IdProducto,Precio,Cantidad
+﻿IdVenta,Fecha,Fecha_Entrega,IdCanal,IdCliente,IdSucursal,IdEmpleado,IdProducto,Precio,Cantidad
 1,2018-03-09,2018-03-17,3,969,13,1674,42817,813.12,2
 2,2018-12-28,2018-12-29,2,884,13,1674,42795,543.18,3
 3,2016-03-28,2016-03-31,2,1722,13,1674,42837,430.32,1
